@@ -1,6 +1,6 @@
 # File_Signer - Hệ thống ký số đơn giản
 
-Dự án mô phỏng một hệ thống ký số, sử dụng các thuật toán mã hóa hiện đại (AES, RSA) để bảo vệ và xác thực thông tin.
+Dự án mô phỏng một hệ thống ký số, sử dụng các thuật toán mã hóa hiện đại ( HASH,AES, RSA, SHA256) để bảo vệ và xác thực thông tin.
 
 ## 📌 Mục tiêu
 
