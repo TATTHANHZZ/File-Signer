@@ -11,9 +11,9 @@ Dự án mô phỏng một hệ thống ký số, sử dụng các thuật toán
 ## 🛠 Công nghệ sử dụng
 
 - Python 3.x
-- PyCryptodome (mã hóa AES, RSA)
-- Flask (nếu có web)
-- HTML/CSS/JS (nếu có giao diện người dùng)
+- PyCryptodome (mã hóa AES, RSA, SHA256, hàm băm...)
+- Flask 
+- HTML/CSS/JS/Python 
 
 ## 🚀 Cách sử dụng
 
