@@ -1,4 +1,4 @@
-# KySo - Hệ thống ký số đơn giản
+# File_Signer - Hệ thống ký số đơn giản
 
 Dự án mô phỏng một hệ thống ký số, sử dụng các thuật toán mã hóa hiện đại (AES, RSA) để bảo vệ và xác thực thông tin.
 
